@@ -1,0 +1,40 @@
+{
+    "User": [
+        {
+            "id": 1,
+            "name": "Rohit Sharma",
+            "age": 34,
+            "userName": "hitman"
+        },
+        {
+            "id": 2,
+            "name": "MS Dhoni",
+            "age": 39,
+            "userName": "MSD"
+        },
+        {
+            "id": 3,
+            "name": "Virat Kohli",
+            "age": 35,
+            "userName": "Chiku"
+        },
+        {
+            "id": 4,
+            "name": "Rahane",
+            "age": 33,
+            "userName": "rahane"
+        },
+        {
+            "id": 5,
+            "name": "Pujara",
+            "age": 34,
+            "userName": "pujji"
+        },
+        {
+            "id": 6,
+            "name": "R Jadaja",
+            "age": 35,
+            "userName": "Jaddu"
+        }
+    ]
+}
